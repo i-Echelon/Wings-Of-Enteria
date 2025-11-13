@@ -1,18 +1,13 @@
 {
-  "masterVersionFile": "https://github.com/JohnShmo/Wings-Of-Enteria/blob/main/johnShmo_wingsOfEnteria.version",
-
+  "masterVersionFile": "https://raw.githubusercontent.com/JohnShmo/Wings-Of-Enteria/refs/heads/main/johnShmo_wingsOfEnteria.version",
   "modName": "Wings Of Enteria",
-
   "modVersion":
     {
       "major": 0,
       "minor": 0,
       "patch": 1 # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
     },
-
   "modThreadId": 0, # eg 8181
-
   "directDownloadURL": "https://github.com/JohnShmo/Wings-Of-Enteria/releases/latest/download/Wings-Of-Enteria.zip",
-
-  "changelogURL": "https://github.com/JohnShmo/Wings-Of-Enteria/blob/main/changelog.md",
+  "changelogURL": "https://raw.githubusercontent.com/JohnShmo/Wings-Of-Enteria/refs/heads/main/changelog.md",
 }
