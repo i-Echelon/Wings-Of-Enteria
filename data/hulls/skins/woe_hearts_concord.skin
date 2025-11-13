@@ -3,7 +3,7 @@
 	"skinHullId":"woe_hearts_concord",
 	"hullName":"Hearts (EC)",
 	"incompatibleWithBaseHull":false, # for the autofit dialog
-	"descriptionId":"woe_spades",
+	"descriptionId":"woe_hearts",
 	"descriptionPrefix":"This ship has been modified with the esoteric manufacturing techniques of the Enterian Concord task group. Its specifications are nominally deviated from standard examples of this hull.",
 	"tags":["woe_enterian_concord"],
 	"tech":"Enterian Concord",
